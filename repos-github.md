@@ -640,6 +640,7 @@
 - informalsystems/apalache
 - ing-bank/baker
 - intracer/scalawiki
+- ivanlp10n2/twitter
 - iRevive/fmq
 - iRevive/sbt-integration-env
 - IronCoreLabs/cats-scalatest
