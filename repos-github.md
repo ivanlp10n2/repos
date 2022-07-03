@@ -645,6 +645,7 @@
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
 - ITV/quartz4s
+- ivanlp10n2/twitter
 - jacum/akka-sensors
 - janstenpickle/graal-kafka-client
 - janstenpickle/hotswap-ref
